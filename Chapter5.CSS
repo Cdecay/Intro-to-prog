@@ -1,0 +1,16 @@
+#u {
+    width: 600px;
+    height: 600px;
+    position: relative;
+    margin-left:auto;
+    margin-right:auto;
+   }
+
+body {
+    color: blue;
+    background: url(guit.jpg);
+    background-repeat: no-repeat;
+   }
+   p {
+    font-family: "Arial Black", Times, serif;
+  }
